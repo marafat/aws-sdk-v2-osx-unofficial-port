@@ -1,4 +1,4 @@
-#Version 2 of the AWS SDK for iOS
+#Version 2 of the AWS SDK for OSX
 
 <!-- [![Version](http://cocoapod-badges.herokuapp.com/v/AWSiOSSDKv2/badge.png)](http://cocoadocs.org/docsets/AWSiOSSDKv2)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/AWSiOSSDKv2/badge.png)](http://cocoadocs.org/docsets/AWSiOSSDKv2) -->
