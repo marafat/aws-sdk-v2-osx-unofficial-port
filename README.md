@@ -5,6 +5,9 @@
 
 **This is an unofficial (work-in-progress) port into Cocoa for Version 2 of the AWS Mobile SDK for iOS has reached General Availability (GA) and is no longer in Developer Preview. Version 1 is deprecated as of September 29, 2014, and will continue to be available until December 31, 2014, in our [aws-sdk-ios-v1](https://github.com/aws/aws-sdk-ios-v1) repository. If you are building new apps, we recommend you use Version 2.**
 
+##List of finished classes
+* **None**
+
 <!-- ##Highlights
 
 * **Amazon Cognito** – A simple user identity and synchronization service that helps you securely manage and synchronize app data for your users across their mobile devices. With Amazon Cognito, you can save any kind of data, such as app preferences or game state, in the AWS cloud without writing any backend code or managing any infrastructure.
